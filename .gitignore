@@ -1,3 +1,4 @@
 /env-copa
 PyWhatKit_DB.txt
 set_envs.txt
+*.pyc
